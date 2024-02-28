@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 4 U (http://www.xmlspy.com) by visher (Vector Informatik GmbH) -->
+<Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Settings Name="com.vector.cfg.core.sip.ISIPService">
+    <Settings Name="ModuleList">
+      <Settings Name="Can_30_Mcan">
+        <Settings Name="Can_Traveo2Mcan_6ch_24K">
+          <Setting Name="SIP_Folder" Value="Can_30_Mcan_Mpc5700Mcan" />
+          <Settings Name="18B45DF6-72DC-4DB5-97A3-9015E9DA3F63">
+            <Setting Name="Derivative" Value="CYT2B94Cxx" />
+            <Setting Name="SIP_Folder" Value="Can_30_Mcan_Mpc5700Mcan" />
+            <Setting Name="ReleaseType" Value="Hardware Reference Checked" />
+          </Settings>
+        </Settings>
+      </Settings>
+    </Settings>
+  </Settings>
+</Settings>

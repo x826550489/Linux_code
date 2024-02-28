@@ -1,0 +1,21 @@
+?RRDM		
+#define ComConf_ComSignal_Day_oZONE_3B2_obodyrr1_9fa7df59_Rx          1u	/	#define ComConf_ComSignal_Day_oZONE_3B2_obodyrr1_canfd_2cf466f6_Rx    1u
+#define ComConf_ComSignal_DrvState_oZONE_13C_obodyrr1_9e88ccea_Rx     2u	/	#define ComConf_ComSignal_DrvState_oZONE_13C_obodyrr1_canfd_6e793f20_Rx 2u
+#define ComConf_ComSignal_Hr_oZONE_3B2_obodyrr1_a907550c_Rx           3u	/	#define ComConf_ComSignal_Hr_oZONE_3B2_obodyrr1_canfd_e66cd7a6_Rx     3u
+#define ComConf_ComSignal_MSec_oZONE_3B2_obodyrr1_0e46536d_Rx         4u	/	#define ComConf_ComSignal_MSec_oZONE_3B2_obodyrr1_canfd_551b8a44_Rx   4u
+?RRDM_END	
+?DDM	
+#define ComConf_ComSignal_Day_oZONE_3B2_obodyfl1_50c9eb2a_Rx          1u	/	#define ComConf_ComSignal_Day_oZONE_3B2_obodyfl1_canfd_b4e95692_Rx    1u
+#define ComConf_ComSignal_DrvState_oZONE_13C_obodyfl1_51e6f899_Rx     2u	/	#define ComConf_ComSignal_DrvState_oZONE_13C_obodyfl1_canfd_f6640f44_Rx 2u
+#define ComConf_ComSignal_Hr_oZONE_3B2_obodyfl1_6669617f_Rx           3u	/	#define ComConf_ComSignal_Front_SCU_Enable_oZONE_2AC_obodyfl1_canfd_dbb79f0a_Rx 3u
+#define ComConf_ComSignal_MSec_oZONE_3B2_obodyfl1_c128671e_Rx         4u	/	#define ComConf_ComSignal_Hr_oZONE_3B2_obodyfl1_canfd_7e71e7c2_Rx     4u
+ 
+#define ComConf_ComSignal_SwitchStuckDTCs_SCUD_oSCU_D_3B8_obodyfl1_907ca333_Tx 100u	/	#define ComConf_ComSignal_SteeringTelescopePos_oSCU_D_2B0_obodyfl1_canfd_f0e2b4c4_Tx 100u
+#define ComConf_ComSignal_WD_SCUD_oSCU_D_3B7_obodyfl1_941fea7f_Tx     101u	/	#define ComConf_ComSignal_SteeringTelescopeSpeedSts_oSCU_D_2B0_obodyfl1_canfd_cbf4baf0_Tx 101u
+#define ComConf_ComSignal_WUKeepSource_SCUD_oSCU_D_3B7_obodyfl1_8fc1b534_Tx 102u	/	#define ComConf_ComSignal_SteeringTiltAdjustSts_oSCU_D_2B0_obodyfl1_canfd_a8aab24f_Tx 102u
+#define ComConf_ComSignal_WUSource_SCUD_oSCU_D_3B7_obodyfl1_43515dd0_Tx 103u	/	#define ComConf_ComSignal_SteeringTiltPos_oSCU_D_2B0_obodyfl1_canfd_338c9e7c_Tx 103u
+	/	
+#define ComConf_ComIPduGroup_SCU_D_obodyfl1_Rx_a25123e2               2u	/	#define ComConf_ComIPduGroup_SCU_D_obodyfl1_canfd_Rx_5f38060f         2u
+#define ComConf_ComIPduGroup_SCU_D_obodyfl1_Tx_f40b8464               3u	/	#define ComConf_ComIPduGroup_SCU_D_obodyfl1_canfd_Tx_0962a189         3u
+?DDM_END	/	
+	

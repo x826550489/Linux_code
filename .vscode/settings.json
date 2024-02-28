@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "2.call.h": "c",
+        "stdio.h": "c",
+        "stat.h": "c",
+        "signal.h": "c",
+        "pool.h": "c",
+        "ctype.h": "c",
+        "pthread.h": "c",
+        "stdlib.h": "c",
+        "replace.h": "c",
+        "types.h": "c",
+        "globel_var.h": "c",
+        "errno.h": "c",
+        "string.h": "c",
+        "strdecode.h": "c"
+    }
+}
